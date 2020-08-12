@@ -1,0 +1,26 @@
+**** BeepTweakable Version 0.6 Public Evaluation Build 4 ****
+***  UPDATE LOGS FROM v0.5  ***
+1. Fix the bug of file not found on old systems
+2. Increase runtime stability
+3. Improve user experience on log displaying screen
+4. Remove unnecessary exceptions
+
+**** BeepTweakable Version 0.5 Public Evaluation Build 3 ****
+***  UPDATE LOGS FROM v0.4  ***
+1. Increase stability
+2. Fix the wrong update logs
+3. Add support for 32bit systems
+
+**** BeepTweakable Version 0.4 Public Evaluation Build 2 ****
+***  UPDATE LOGS FROM v0.3  ***
+1. Fix the bug of abortion when directory is not complete
+2. Fix the problem that Update.log file is not in the directory.
+3. Increase startup stability
+
+***  UPDATE LOGS FROM v0.3  ***
+1. Fix the misdisplaying bug for some text
+2. Can automatically increase the microphone volume when playing
+3. Replace SoundPlayer API with NAudio API
+4. Delete the displaying of totally useless information
+5. Add Update.log displaying when start
+6. Write more useful comments
