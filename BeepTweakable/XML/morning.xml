@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<bt>
+  <config type="beeper" class="bell" name="bell.wav"/>
+  <beep time="7:30" class="bell"/>
+  <beep time="9:00" class="bell"/>
+  <beep time="9:10" class="bell"/>
+  <beep time="10:40" class="bell"/>
+  <beep time="10:50" class="bell"/>
+  <beep time="12:20" class="bell"/>
+</bt>
